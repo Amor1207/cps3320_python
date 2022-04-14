@@ -1,8 +1,0 @@
-name = input("what is your name?")
-age = int(input("how old are you?"))
-live = input("where are you living right now?")
-hobby = input(("what do you like to do?"))
-print("Hello,my name is " + name)
-print("I am " + str(age)+"years")
-print("I live in " + live)
-print("I like to play " + hobby)
